@@ -26,7 +26,7 @@ def game_hash
           :assists => ,
           :steals => ,
           :blocks => ,
-          :slam_dunks => 
+          :slam_dunks =>
         },
         {
           :player_name => ,
@@ -37,7 +37,7 @@ def game_hash
           :assists => ,
           :steals => ,
           :blocks => ,
-          :slam_dunks => 
+          :slam_dunks =>
         },
         {
           :player_name => ,
@@ -48,7 +48,7 @@ def game_hash
           :assists => ,
           :steals => ,
           :blocks => ,
-          :slam_dunks => 
+          :slam_dunks =>
         },
         {
           :player_name => ,
@@ -59,7 +59,7 @@ def game_hash
           :assists => ,
           :steals => ,
           :blocks => ,
-          :slam_dunks => 
+          :slam_dunks =>
         }
       ]
     },
