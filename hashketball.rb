@@ -2,7 +2,16 @@
 def game_hash
   return
   {
-    :home => {},
-    :away => {}
+    :home => 
+    {
+      :team_name =>
+      :colors => 
+      :players => 
+    },
+    :away => {
+      :team_name =>
+      :colors =>
+      :players =>
+    }
   }
 end
